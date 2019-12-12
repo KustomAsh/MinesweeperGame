@@ -28,3 +28,9 @@ How to play:
 		<< "\n\t•  To remove a flag, enter F and then enter its coordinates again."
 		<< "\n\t•  If you mark all the mines correctly, You win the game."
 		<< "\n\t•  Your name will be added to highscores list in you finish in less time than the previous high scores."
+
+
+ 
+Program made on Visual Studio.
+
+KustomAsh@github.com
